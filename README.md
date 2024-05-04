@@ -1,75 +1,12 @@
-# Nuxt 3 Minimal Starter
+various test links to check infinite 302 redirections:
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Nuxt 3.11.2 with qs in router-options
+https://test-nuxt-query-netlify.netlify.app/?test=erba%20vita
 
-## Setup
+Nuxt 3.10.2 with qs in router-options
 
-Make sure to install the dependencies:
+https://nuxt-310--test-nuxt-query-netlify.netlify.app/?test=erba%20vita
 
-```bash
-# npm
-npm install
+Nuxt 3.11.2 without qs in router-options
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+https://noqs--test-nuxt-query-netlify.netlify.app/?test=erba%20vita
